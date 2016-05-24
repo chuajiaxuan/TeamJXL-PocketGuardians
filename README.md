@@ -17,7 +17,7 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 ![Image of SplashScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Splash%20Screen%200.png)
 > Rough Sketch of Game Splash Screen.
 
-##**Milestone 1** 
+### **Milestone 1** 
 
 **Deliverables**:
 
@@ -33,11 +33,11 @@ We proceeded to do some initial planning by coming up with some user stories cat
 
 For the development of the game, we decided that Leslie will be in charge of designing the game environment and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game such as the Social Media Integration, and also the administrative matters of our project.
 
-##**Milestone 2** 
+### **Milestone 2** 
 
 By Milestone 2, we hope that our game will be fully working and playable with all visuals and graphics added in. We also hope to add in some planned features such as Social Media Integration, Customisable Game Skins, and User Data Management. By Milestone 2, we hope to finalise more or less every aspect of the game without any additional major changes.
 
-##**Milestone 3** 
+### **Milestone 3** 
 
 By Milestone 3, we hope to have tested our game with volunteers to gather more feedbacks. We also hope to increase the number of levels/stages for our game if necessary.
 
@@ -70,7 +70,7 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 
 **Vostock**
 - [x] Attend Liftoff workshop
-- [ ] Project Log at least 130 hours each: [link]()
+- [ ] Project Log at least 130 hours each: [link](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 - [ ] Participate in Splashdown
 - [ ] Create a mobile app with CRUD capabilities
 - [ ] Complete peer-evaluation exercises
@@ -92,6 +92,11 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 - [ ] Score at least 3 stars out of 4 on feedback and evaluations
 
 # References
+
+**Tools**
+
+* [Unity](https://unity3d.com/)
+* [Visual Studios 2015](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
 
 **Project Ideation**
 
