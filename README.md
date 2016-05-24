@@ -1,8 +1,10 @@
 # Pocket Guardians
 
-Pocket Guardians is a single-player mobile game that aims to help people who spend time travelling to work, school, or back home, to kill their boredom during their commute. It encompasses the basic requirements for a game to be engaging through simple, intuitive gameplay. This means there is no tutorial or help needed to start playing the game!
+Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are either seen dozing off or staring blankly into the remote space. To alleviate these problems, our team hopes to cultivate an environment that stimulate thinking on the go. Pocket Guardian is fun filled action packed game that eliminates boredom, bringing an endless and exciting experience to commuters. It encompasses the basic requirements of a game to provide engagement through simple, intuitive gameplay. Say goodbye to boring tutorials that have been hindering your gaming experience!
 
 We drew our inspirations for Pocket Guardians from popular games such as Plants Vs Zombies, Angry Birds, Candy Crush and Clash Royale. Some features we would like to have are, **Social Media Integration** so that players can share their progress with their friends about the game, **Customisable Game Skins** so players can personalise the game, **User Data Management** so players can download and upload their game data for portability.
+
+*The game suitable for user age 9 and above. 
 
 _[Disclaimer: Objects and their designs are subjected to changes from version to version, hence they may not be finalised yet and are a rough implementation of the final product.]_
 
