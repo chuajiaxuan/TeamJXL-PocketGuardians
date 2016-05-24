@@ -22,7 +22,7 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 **Deliverables**:
 
 1. README - This documentation is the readme
-2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit#gid=0)
+2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 3. Video: Access it [here](https://www.youtube.com/watch?v=oaUxtZ5ep_Y)
 
 By Milestone 1, we aim to have a general prototype of our project, a working game interface but not including game visuals and graphics. We also aim to have an overall idea/design we want to achieve for our game, for example what extra features we would like for our game.
