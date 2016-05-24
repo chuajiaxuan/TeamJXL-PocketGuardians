@@ -36,6 +36,7 @@ By Milestone 3, we hope to have tested our game with volunteers to gather more f
 # User Stories
 
 **Must Have**:
+
 1. As a user, I want to be able to quickly play the game, so I do not have to spend time on learning the controls.
 2. As a user, I want to be able to play the game during my commute, so that I kill time playing the game.
 3. As a user, I can start a game, so that I can play the game.
@@ -44,6 +45,7 @@ By Milestone 3, we hope to have tested our game with volunteers to gather more f
 6. As a user, I can load a saved game, so that I can resume where I last stopped.
 
 **Good To Have**:
+
 1. As a user, I want to be able to play the game on phones with different Operating Systems, so that I need not worry about changing phones.
 2. As a user, I can connect to Facebook or Google Play, so that I can share my game progress with my friends.
 3. As a user, I can change my settings of the game, so that it can suit my preference.
@@ -51,6 +53,7 @@ By Milestone 3, we hope to have tested our game with volunteers to gather more f
 5. As a user, I can customise the theme for my game, so that I can play in my prefered theme.
 
 **Maybe**:
+
 1. As a user, I can earn in-game prizes, so that I can have more fun in the game.
 
 # Proposed Level of Achievement
@@ -83,6 +86,7 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 # References
 
 **Project Ideation**
+
 * [Plants Vs. Zombies](http://www.popcap.com/plants-vs-zombies)
 * [Angry Birds](https://www.angrybirds.com/)
 * [Candy Crush Saga](http://candycrushsaga.com/)
