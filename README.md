@@ -2,13 +2,13 @@
 
 Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are either seen dozing off in public transports or simply staring blankly into the remote space. To alleviate these problems, our team has devoted ourselves to cultivate an environment that stimulates thinking on the go. Pocket Guardian is a fun-filled action game that eliminates boredom by delivering an endless hours of exciting gameplay to commuters. It encompasses the basic requirements of a game that engages passengers on a simple and intuitive level. Say goodbye to boring tutorials and conventional gameplay! :grin:
 
-Our inspirations were obtain from popular games such as Plants Vs Zombies, Angry Birds, Candy Crush, Clash Royale, etc. 
-Some features includes 
-1) **Social Media Integration** which allows players to share their progress with their friends on a competitive scale
-2) **Customisable Game Skins** where players can customize their characters
-3) **User Data Management** where players can download and upload their game data for portability.
+Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angry Birds, Candy Crush Saga, Clash Royale, etc. Some features includes:
 
-*This game is suitable for user age 9 and above. 
+1. **Social Media Integration** which allows players to share their progress with their friends on a competitive scale
+2. **Customisable Game Skins** where players can customize their characters
+3. **User Data Management** where players can download and upload their game data for portability
+
+*This game is suitable for user age 9 and above.
 
 _[Disclaimer: Objects and their designs are subjected to changes from version to version, hence they may not be finalised yet and are a rough implementation of the final product.]_
 
