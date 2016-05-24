@@ -12,6 +12,7 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 ##**Milestone 1** 
 
 **Deliverables**:
+
 1. README - This documentation is the readme
 2. Project Log: Access it [here]()
 3. Video: Access it [here]()
