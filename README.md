@@ -8,7 +8,7 @@ Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angr
 2. **Customisable Game Skins** where players can customize their characters
 3. **User Data Management** where players can download and upload their game data for portability
 
-_[This game is suitable for user age 9 and above.]_
+_This game is suitable for user age 9 and above._
 
 _[Disclaimer: Objects and their designs are subjected to changes from version to version, hence they may not be finalised yet and are a rough implementation of the final product.]_
 
