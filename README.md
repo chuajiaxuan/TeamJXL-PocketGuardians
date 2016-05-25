@@ -25,21 +25,23 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 3. Video: Access it [here](https://www.youtube.com/watch?v=oaUxtZ5ep_Y)
 
-By Milestone 1, we aim to have a general prototype of our project, a working game interface but not including game visuals and graphics. We also aim to have an overall idea/design we want to achieve for our game, for example what extra features we would like for our game.
+By Milestone 1, we aim to have an overall idea/design we want to achieve for our game and what tools we should use for making our game. For example, should we use Unity or Android Studio? What game art, skins, sprites and audio to use. Have a rough sketch of our splash screen, menu and game stages to guide us along. As well as what extra features we would like for our game. We also aim to complete some of the basic CRUD capabilities for our game so that we can spend more time on developing the extra features in Milestone 2.
 
-We started of by experimenting using the Android Studio to create a mobile game. However, we decided to allow our game to be played on not just Android but also iOS. Hence, we switched over to using Unity because of its multi-platform support, and Visual Studio for Unity's scripting process.
+We started off by experimenting using the Android Studio to create a mobile game. However, we wanted to allow our game to be played on not just Android but also iOS. Hence, we switched over to using Unity because of its multi-platform support, and Visual Studio for Unity's scripting process. In addition, Unity provides greater support as it already comes with a suite of developmental tools for creating graphic, sound, animation assets. 
 
-We proceeded to do some initial planning by coming up with some user stories categorised as Must Have, Good To Have and Maybe. (See below under User Stories section)
+We proceeded to do some initial planning by coming up with some user stories categorised as Must Have, Good To Have and Maybe. (See User Stories section below.)
 
-For the development of the game, we decided that Leslie will be in charge of designing the game environment and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game such as the Social Media Integration, and also the administrative matters of our project.
+For the development of the game, we decided that Leslie will be in charge of designing the game environment and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game such as the Social Media Integration, and also the administrative matters of this project.
 
 ### **Milestone 2** 
 
-By Milestone 2, we hope that our game will be fully working and playable with all visuals and graphics added in. We also hope to add in some planned features such as Social Media Integration, Customisable Game Skins, and User Data Management. By Milestone 2, we hope to finalise more or less every aspect of the game without any additional major changes.
+By Milestone 2, we hope to have a fully working prototype of our game, with the basic CRUD features completed. We also plan to add in the planned features such as Social Media Integration, User Data Management and Customisable Game Skins into our game in this respective order. By Milestone 2, we hope to finalise more or less every aspect of the game without any additional major changes.
 
 ### **Milestone 3** 
 
-By Milestone 3, we hope to have tested our game with volunteers to gather more feedbacks. We also hope to increase the number of levels/stages for our game if necessary.
+By Milestone 3, in the event that we are not able to add in the Customisable Game Skins feature in time, we hope to set aside some buffer time in this milestone, just in case.
+
+By Milestone 3, we hope to have tested our game with volunteers to gather more feedbacks. We also hope to further polish up any areas within the game, such as, increasing the number of levels/stages for our game if necessary, or improving the visuals within the game.
 
 # User Stories
 
@@ -95,6 +97,7 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 
 **Tools**
 
+* [Android Studio](https://developer.android.com/studio/index.html)
 * [Unity 5](https://unity3d.com/)
 * [Visual Studios 2015](https://www.visualstudio.com/en-us/downloads/download-visual-studio-vs.aspx)
 
