@@ -1,6 +1,6 @@
 # Pocket Guardians
 
-Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are either seen dozing off in public transports or simply staring blankly into the remote space. To alleviate these problems, our team has devoted ourselves to cultivate an environment that stimulates thinking on the go. Pocket Guardian is a fun-filled action game that eliminates boredom by delivering an endless hours of exciting gameplay to commuters. It encompasses the basic requirements of a game that engages passengers on a simple and intuitive level. Say goodbye to boring tutorials and conventional gameplay! :grin:
+Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are often playing games, watching shows or browsing social media sites on their mobile devices during commute. Hence, our team would like to create a innovative new game to target these commuters. In addition, our team has devoted ourselves to cultivate an environment that stimulates thinking on the go. Pocket Guardian is a fun-filled action game that eliminates boredom by delivering an endless hours of exciting gameplay to commuters. It encompasses the basic requirements of a game that engages passengers on a simple and intuitive level. Say goodbye to boring tutorials and conventional gameplay! :grin:
 
 Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angry Birds, Candy Crush Saga, Clash Royale, etc. Some features we hope to include are:
 
@@ -35,7 +35,31 @@ For the development of the game, we decided that Leslie will be in charge of des
 
 ### **Milestone 2** 
 
+**Deliverables**:
+
+1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
+2. Video: Access it [here]()
+
 By Milestone 2, we hope to have a fully working prototype of our game, with the basic CRUD features completed. We also plan to add in the planned features such as Social Media Integration, User Data Management and Customisable Game Skins into our game in this respective order. By Milestone 2, we hope to finalise more or less every aspect of the game without any additional major changes.
+
+Currently, we have a working prototype of our game with the basic CRUD features. (Create a new game, load a saved game, save game progress and delete a saved game.) 
+
+![Image of MenuScreen]()
+> Menu Screen
+
+![Image of SettingsScreen]()
+> Settings Screen
+
+![Image of LoadGameScreen]()
+> Load Game Screen
+
+![Image of GameplayScreen]()
+> Gameplay Screen.
+
+We also have implemented the extra feature: Social Media Integration, where players can share, invite and check out their rankings against their friends.
+
+![Image of LeaderboardScreen]()
+> Leaderboard Screen.
 
 ### **Milestone 3** 
 
@@ -74,13 +98,13 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 - [x] Attend Liftoff workshop
 - [ ] Project Log at least 130 hours each: [link](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 - [ ] Participate in Splashdown
-- [ ] Create a mobile app with CRUD capabilities
+- [x] Create a mobile app with CRUD capabilities
 - [ ] Complete peer-evaluation exercises
 - [ ] Show progress over all 3 milestones
 
 **Project Gemini**
 - [x] Using alternative platform: Unity & Visual Studios (Completed in Milestone 1)
-- [ ] Add Social Media Integration
+- [x] Add Social Media Integration
 - [ ] Add Customisable Game Skins
 - [ ] Add User Data download and upload options
 - [ ] Must score a minimum of 2 stars on feedback given to other teams
