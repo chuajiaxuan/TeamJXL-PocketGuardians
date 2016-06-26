@@ -44,10 +44,10 @@ By Milestone 2, we hope to have a fully working prototype of our game, with the 
 
 Currently, we have a working prototype of our game with the basic CRUD features. (Create a new game, load a saved game, save game progress and delete a saved game.) 
 
-![Image of MenuScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
+![Image of MenuScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png) ![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
 > Menu Screen
 
-![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
+
 > Settings Screen
 
 ![Image of LoadGameScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLoadScreen.png)
@@ -58,7 +58,7 @@ Currently, we have a working prototype of our game with the basic CRUD features.
 
 We also have implemented the extra feature: Social Media Integration, where players can share, invite and check out their rankings against their friends.
 
-![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboardScreen.png)
+![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboard.png)
 > Leaderboard Screen.
 
 ### **Milestone 3** 
