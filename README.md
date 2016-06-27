@@ -38,7 +38,7 @@ For the development of the game, Leslie will be in charge of character design an
 **Deliverables**:
 
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
-2. Video: Access it [here]()
+2. Video: Access it [here](https://youtu.be/t8q2j4wWW0c)
 
 By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates an online social media platform (FACEBOOK), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable for players of all ages. Future updates will soon include User Data Management and Customisable Game Skins. (By MileStone 3) 
 
