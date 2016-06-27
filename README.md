@@ -49,17 +49,17 @@ By Milestone 2, we aim to produce a working prototype of our game, with the basi
 ![Image of GameplayScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGGameplayScreen.png)
 > Gameplay Screen.
 
-CRUD (Create, Read, Update & Delete); where players have full control over thier Game Progess
+CRUD (Create, Read, Update & Delete); where players have full control over their Game Progess
 
 ![Image of LoadGameScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLoadScreen.png)
 > Load Game Screen
 
-Game Setting allow players to adjust music/sfx volume according to thier preferences
+Game Setting allow players to adjust Music/SFX volume according to thier Preferences
 
 ![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
 > Settings Screen
 
-Social Media Integration (Facebook); where players can share, invite and check out their rankings against their friends.
+Social Media Integration (Facebook); where players can Share, Invite and Check out their Rankings against their friends.
 
 ![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboard.png)
 > Leaderboard Screen.
