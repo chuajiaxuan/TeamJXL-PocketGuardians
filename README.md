@@ -56,7 +56,7 @@ Currently, we have a working prototype of our game with the basic CRUD features.
 ![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
 > Settings Screen
 
-We also have implemented the extra feature: Social Media Integration, where players can share, invite and check out their rankings against their friends.
+We also have implemented the extra feature: Social Media Integration (Facebook), where players can share, invite and check out their rankings against their friends.
 
 ![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboard.png)
 > Leaderboard Screen.
