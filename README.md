@@ -40,11 +40,10 @@ For the development of the game, we decided that Leslie will be in charge of des
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 2. Video: Access it [here]()
 
-By Milestone 2, we hope to have a fully working prototype of our game, with the basic CRUD features completed. We also plan to add in the planned features such as Social Media Integration, User Data Management and Customisable Game Skins into our game in this respective order. By Milestone 2, we hope to finalise more or less every aspect of the game without any additional major changes.
+By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates various social platforms (e.g facebook), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable to players of all age. Future updates will soon includes User Data Management and Customisable Game Skins. (by MileStone 3) 
 
-Currently, we have a working prototype of our game with the basic CRUD features. (Create a new game, load a saved game, save game progress and delete a saved game.) 
 
-![Image of MenuScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
+![Image of MenuScreen] (https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
 > Menu Screen
 
 ![Image of GameplayScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGGameplayScreen.png)
@@ -65,7 +64,7 @@ We also have implemented the extra feature: Social Media Integration (Facebook),
 
 By Milestone 3, in the event that we are not able to add in the Customisable Game Skins feature in time, we hope to set aside some buffer time in this milestone, just in case.
 
-By Milestone 3, we hope to have tested our game with volunteers to gather more feedbacks. We also hope to further polish up any areas within the game, such as, increasing the number of levels/stages for our game if necessary, or improving the visuals within the game.
+By Milestone 3, we hope to acquire feedback from game volunteers to improve our game performance. We aim to further polish up any areas within the game, such as, adding more levels/stages and visual enhancements.
 
 # User Stories
 
