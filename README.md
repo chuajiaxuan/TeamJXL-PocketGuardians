@@ -25,13 +25,13 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 3. Video: Access it [here](https://www.youtube.com/watch?v=oaUxtZ5ep_Y)
 
-By Milestone 1, we aim to have an overall idea/design we want to achieve for our game and what tools we should use for making our game. For example, should we use Unity or Android Studio? What game art, skins, sprites and audio to use. Have a rough sketch of our splash screen, menu and game stages to guide us along. As well as what extra features we would like for our game. We also aim to complete some of the basic CRUD capabilities for our game so that we can spend more time on developing the extra features in Milestone 2.
+By Milestone 1, we aim to have an overall idea/design of we want to achieve for our game along with the respective tools that are required. The selection of development tools and character design proves to be essential here. Having a rough sketch of our splash screen, menu and game stages are necessary to guide us along. The choice of extra features also helps to value-add our product. We hope to kickstart with some basic CRUD capabilities for our game to produce sufficient time for future developments in Milestone 2.
 
-We started off by experimenting using the Android Studio to create a mobile game. However, we wanted to allow our game to be played on not just Android but also iOS. Hence, we switched over to using Unity because of its multi-platform support, and Visual Studio for Unity's scripting process. In addition, Unity provides greater support as it already comes with a suite of developmental tools for creating graphic, sound, animation assets. 
+We started off by experimenting with Android Studio to create a mobile game. However, we wanted our game to be expose to a greater group of people (not just Android but also iOS). Hence, we switched over to using Unity (due to its multi-platform support), and Visual Studio for Unity's scripting process. Unity had proven itself to be a great support as it comes with a suite of developmental tools for creating graphic, sound, animation assets. 
 
-We proceeded to do some initial planning by coming up with some user stories categorised as Must Have, Good To Have and Maybe. (See User Stories section below.)
+We proceeded to do some initial planning by coming up with user stories categorised as Must Have, Good To Have and Maybe. (See User Stories section below.)
 
-For the development of the game, we decided that Leslie will be in charge of designing the game environment and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game such as the Social Media Integration, and also the administrative matters of this project.
+For the development of the game, Leslie will be in charge of character design and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game (e.g Social Media Integration), along with the the administrative matters of this project.
 
 ### **Milestone 2** 
 
