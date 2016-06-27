@@ -15,7 +15,7 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 # Project Timeline
 
 ![Image of SplashScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSplashScreen.png)
-> Rough Sketch of Game Splash Screen.
+> Game Splash Screen.
 
 ### **Milestone 1** 
 
