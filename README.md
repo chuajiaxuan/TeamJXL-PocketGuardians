@@ -43,6 +43,7 @@ For the development of the game, we decided that Leslie will be in charge of des
 By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates various social platforms (e.g facebook), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable to players of all age. Future updates will soon includes User Data Management and Customisable Game Skins. (by MileStone 3) 
 
 
+
 ![Image of MenuScreen] (https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
 > Menu Screen
 
