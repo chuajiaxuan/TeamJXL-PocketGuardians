@@ -40,7 +40,9 @@ For the development of the game, we decided that Leslie will be in charge of des
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 2. Video: Access it [here]()
 
-By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates various social platforms (e.g facebook), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable to players of all age. Future updates will soon includes User Data Management and Customisable Game Skins. (by MileStone 3) 
+By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates various social platforms (e.g facebook), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable for players of all ages. Future updates will soon includes User Data Management and Customisable Game Skins. (by MileStone 3) 
+
+
 
 
 
