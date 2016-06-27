@@ -62,7 +62,7 @@ We also have implemented the extra feature: Social Media Integration (Facebook),
 
 ### **Milestone 3** 
 
-By Milestone 3, in the event that we are not able to add in the Customisable Game Skins feature in time, we hope to set aside some buffer time in this milestone, just in case.
+By Milestone 3, in the event that we're unable to introduce Customisable Game Skins in time, we plan to set aside some buffer time in this milestone, just in case.
 
 By Milestone 3, we hope to acquire feedback from game volunteers to improve our game performance. We aim to further polish up any areas within the game, such as, adding more levels/stages and visual enhancements.
 
