@@ -47,14 +47,14 @@ Currently, we have a working prototype of our game with the basic CRUD features.
 ![Image of MenuScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
 > Menu Screen
 
-![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
-> Settings Screen
+![Image of GameplayScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGGameplayScreen.png)
+> Gameplay Screen.
 
 ![Image of LoadGameScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLoadScreen.png)
 > Load Game Screen
 
-![Image of GameplayScreen]()
-> Gameplay Screen.
+![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
+> Settings Screen
 
 We also have implemented the extra feature: Social Media Integration, where players can share, invite and check out their rankings against their friends.
 
