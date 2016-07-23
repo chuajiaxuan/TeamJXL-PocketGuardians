@@ -4,9 +4,9 @@ Pocket Guardians is a single-player mobile game that helps commuters kill boredo
 
 Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angry Birds, Candy Crush Saga, Clash Royale, etc. Some features we hope to include are:
 
-1. **Social Media Integration** which allows players to share their progress with their friends on a competitive scale
-2. **Customisable Game Skins** where players can customize their characters
-3. **User Data Management** where players can download and upload their game data for portability
+1. **Basic CRUD** so that a player can save his game progress (Create), load it (Read), overwrite with new progress (Update) and remove his game progress (Delete)
+2. **Social Media Integration** which allows players to share their progress with their friends on a competitive scale
+3. **User Interface** for easier and more attractive navigation throughout the game
 
 _This game is suitable for user age 9 and above._
 
@@ -99,17 +99,17 @@ The level of achievement we are aiming for is Project Gemini. Below list the res
 
 **Vostock**
 - [x] Attend Liftoff workshop
-- [ ] Project Log at least 130 hours each: [link](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
-- [ ] Participate in Splashdown
-- [x] Create a mobile app with CRUD capabilities
-- [ ] Complete peer-evaluation exercises
-- [ ] Show progress over all 3 milestones
+- [x] Project Log at least 130 hours each: [link](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
+- [x] Participate in Splashdown
+- [x] Create an app with CRUD capabilities
+- [x] Complete peer-evaluation exercises
+- [x] Show progress over all 3 milestones
 
 **Project Gemini**
 - [x] Using alternative platform: Unity & Visual Studios (Completed in Milestone 1)
+- [x] Add Mobile Functionality
 - [x] Add Social Media Integration
-- [ ] Add Customisable Game Skins
-- [ ] Add User Data download and upload options
+- [x] Add Interative and User-Friendly User Interface
 - [ ] Must score a minimum of 2 stars on feedback given to other teams
 - [ ] Must score a minimum of 3 stars on own peer-graded project
 
