@@ -4,9 +4,9 @@ Pocket Guardians is a single-player mobile game that helps commuters kill boredo
 
 Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angry Birds, Candy Crush Saga, Clash Royale, etc. Some features we hope to include are:
 
-1. **Basic CRUD** so that a player can save his game progress (Create), load it (Read), overwrite with new progress (Update) and remove his game progress (Delete)
-2. **Social Media Integration** which allows players to share their progress with their friends on a competitive scale
-3. **User Interface** for easier and more attractive navigation throughout the game
+1. **Basic CRUD** - so that a player can save his game progress (Create), load it (Read), overwrite with new progress (Update) and remove his game progress (Delete)
+2. **Social Media Integration** - which allows players to share their progress with their friends on a competitive scale
+3. **User Interface** - for easier and more attractive navigation throughout the game
 
 _This game is suitable for user age 9 and above._
 
