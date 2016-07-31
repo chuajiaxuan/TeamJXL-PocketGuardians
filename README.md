@@ -65,11 +65,15 @@ Social Media Integration (Facebook); where players can Share, Invite and Check o
 > Leaderboard Screen.
 
 ### **Milestone 3** 
+
+**Deliverables**:
+
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 2. Video: Access it [here]
 
 
 In Milestone 3, we've added several improvement to our gameplay to further enrich our players' experience in Pocket Guardian. We've included a new currency a.k.a Gem that allows players to make in-game purchases along with a couple of Power-Ups to strengthen their armies. These seek to add greater flavour into the game in providing an all-rounded gaming experience for our fellow players. Last but not least, each gameplay now comes with a new purpose: To defender your precious fortress against pesky monsters within the stipulated time. 
+
 
 
 A new overview of our gameplay. Guardians appear bigger than usual due to power enhancement. Some monster are also seen dropping gem.
