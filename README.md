@@ -77,7 +77,7 @@ Social Media Integration (Facebook); where players can Share, Invite and Check o
 2. Video: Access it [here]
 
 
-In Milestone 3, we've added several improvement to our gameplay to further enrich our players' experience in Pocket Guardian. We've included the following: 1) New currency a.k.a Gem that allows players to make in-game purchases 2) Power-Ups that are meant to strengthen their army within a certain duration. These features seek to add greater flavour into the game in providing an all-rounded gaming experience for our fellow players. Last but not least, each gameplay now comes with a new purpose: To defender your precious fortress against pesky monsters within the stipulated time. 
+In Milestone 3, we've added several improvement to our gameplay to further enrich our players' experience in Pocket Guardian. We've included the following: 1) New currency a.k.a Gem that allows players to make in-game purchases 2) PowerUps that are meant to strengthen their army within a certain duration. These features seek to add greater flavour into the game in providing an all-rounded gaming experience for our fellow players. Last but not least, each gameplay now comes with a new purpose: To defender your precious fortress against pesky monsters within the stipulated time. 
 
 A new overview of our gameplay. Guardians appear bigger than usual due to power enhancement. Some monsters are also seen dropping gem.
 
@@ -95,7 +95,7 @@ An in-game Shop that allows players to puchase in-game items to better strategis
 > Gem Shop Screen.
 
 
-As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that the relavant adjustments could be made. Additionally, We hope to expand the game by introducing new characters and environments if time permits. Overall, the journey with Pocket Guardian has been a pleasant and rewarding for our team.
+As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that the relavant adjustments could be made. Additionally, We hope to expand the game by introducing new characters and environments if time permits. Overall, the journey with Pocket Guardian has been pleasant and rewarding for our team.
 
 # User Stories
 
