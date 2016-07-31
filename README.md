@@ -1,6 +1,6 @@
 # Pocket Guardians
 
-Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are often playing games, watching shows or browsing social media sites on their mobile devices during commute. Hence, our team would like to create a innovative new game to target these commuters. In addition, our team has devoted ourselves to cultivate an environment that stimulates thinking on the go. Pocket Guardian is a fun-filled action game that eliminates boredom by delivering an endless hours of exciting gameplay to commuters. It encompasses the basic requirements of a game that engages passengers on a simple and intuitive level. Say goodbye to boring tutorials and conventional gameplay! :grin:
+Pocket Guardians is a single-player mobile game that helps commuters kill boredom during their travels. Very often, commuters are seen playing games, watching shows or browsing social media sites on their mobile devices during commute. Hence, our team would like to create a innovative new game to target these commuters. In addition, our team has devoted ourselves to cultivate an environment that stimulates thinking on-the-go. Pocket Guardian is a fun-filled action game that eliminates boredom by delivering an endless hours of exciting gameplay to commuters. It encompasses the basic requirements of a game that engages passengers on a simple and intuitive level. Say goodbye to boring tutorials and conventional gameplay! :grin:
 
 Our inspirations were obtain from popular games such as Plants Vs. Zombies, Angry Birds, Candy Crush Saga, Clash Royale, etc. Some features we hope to include are:
 
@@ -14,6 +14,8 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 
 # Project Timeline
 
+Player's Welcome Screen
+
 ![Image of SplashScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSplashScreen.png)
 > Game Splash Screen.
 
@@ -25,13 +27,13 @@ _[Disclaimer: Objects and their designs are subjected to changes from version to
 2. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 3. Video: Access it [here](https://www.youtube.com/watch?v=oaUxtZ5ep_Y)
 
-By Milestone 1, we aim to have an overall idea/design of we want to achieve for our game along with the respective tools that are required. The selection of development tools and character design proves to be essential here. Having a rough sketch of our splash screen, menu and game stages are necessary to guide us along. The choice of extra features also helps to value-add our product. We hope to kickstart with some basic CRUD capabilities for our game to produce sufficient time for future developments in Milestone 2.
+By Milestone 1, we aim to have an overall idea/design of what we want to achieve for our game along with the respective tools that are required. The selection of development tools and character design proves to be essential here. Having a rough sketch of our splash screen, menu and game stages are necessary to guide us along. The choice of extra features also helps to value-add our product. We hope to kickstart with some basic CRUD capabilities for our game to produce sufficient time for later developments in Milestone 2.
 
-We started off by experimenting with Android Studio to create a mobile game. However, we wanted our game to be expose to a greater group of people (not just Android but also iOS). Hence, we switched over to using Unity (due to its multi-platform support), and Visual Studio for Unity's scripting process. Unity had proven itself to be a great support as it comes with a suite of developmental tools for creating graphic, sound, animation assets. 
+We started off by experimenting with Android Studio to create a mobile game. However, we wanted our game to be expose to a greater group of audience (not just Android but also iOS). Hence, we decided switched over to using Unity (due to its multi-platform support), and Visual Studio for Unity's scripting process. Unity had proven itself to be a great support as it comes with a suite of developmental tools for creating graphic, sound, animation assets. 
 
 We proceeded to do some initial planning by coming up with user stories categorised as Must Have, Good To Have and Maybe. (See User Stories section below.)
 
-For the development of the game, Leslie will be in charge of character design and gameplay, while Jia Xuan will be handling the implementation of the extra features to be included into the game (e.g Social Media Integration), along with the the administrative matters of this project.
+For the development of the game, Leslie will be in charge of character designing and gameplay, whereas Jia Xuan will be handling the implementation of the extra features of the game (e.g Social Media Integration) and the administrative matters of this project.
 
 ### **Milestone 2** 
 
@@ -40,26 +42,29 @@ For the development of the game, Leslie will be in charge of character design an
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
 2. Video: Access it [here](https://youtu.be/t8q2j4wWW0c)
 
-By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates an online social media platform (FACEBOOK), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable for players of all ages. Future updates will soon include User Data Management and Customisable Game Skins. (By MileStone 3) 
+By Milestone 2, we aim to produce a working prototype of our game, with the basic CRUD (Create, Read, Update & Delete) features incoporated in it. Additionally, our game integrates an online social media platform (FACEBOOK), allowing players to not only challenge themselves but to also compete with their fellow peers. The last few weeks were dedicated to designing the UI (User Interface) of the game in ensuring that Pocket Guardian is user-friendly and interactable for players of all ages. Future updates will soon include User Data Management and Customisable Game Skins. (Hopefully by MileStone 3) 
 
+Player Menu Screen
 
 ![Image of MenuScreen] (https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGMenuScreen.png)
 > Menu Screen
 
+An Overview of the gameplay
+
 ![Image of GameplayScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGGameplayScreen.png)
 > Gameplay Screen.
 
-CRUD (Create, Read, Update & Delete); where players have full control over their Game Progess
+CRUD (Create, Read, Update & Delete); where players have full control over their game progess
 
 ![Image of LoadGameScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLoadScreen.png)
 > Load Game Screen
 
-Game Setting allow players to adjust Music/SFX volume according to thier Preferences
+Game Setting that allow players to adjust Music/SFX volume in accordance to their preferences
 
 ![Image of SettingsScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGSettingScreen.png)
 > Settings Screen
 
-Social Media Integration (Facebook); where players can Share, Invite and Check out their Rankings against their friends.
+Social Media Integration (Facebook); where players can Share, Invite and Check out their Rankings among their friends.
 
 ![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboard.png)
 > Leaderboard Screen.
