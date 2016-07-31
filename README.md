@@ -84,11 +84,11 @@ Players are prompted to customize their "Pocket" before proceeding to battle. Ea
 ![Image of PocketScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Pocket.png)
 > Pocket Screen.
 
-An in-game shop that allows player to puchase in-game items to better stretegise their tactics. Shop comprises of Guardians and Power-Up. Powerful items (those equipped with better stats) are relatively more expensive. Here, players can spend their hard-earned Gems to their heart desire.
+An In-Game Shop that allows player to puchase in-game items to better strategise their tactics. Shop comprises of Guardians and Power-Up. Powerful items (those with better stats) are relatively more expensive. Here, players can spend their hard-earned Gems to their heart desire.
 ![Image of GemShopscreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Shop.png)
 > Gem Shop Screen.
 
-As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that relavant adjustments could be made. Additionally, We hope to further expand Pocket Guardian by introducing new characters and environments in the near future. 
+As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that relavant adjustments could be made. Additionally, We hope to further expand Pocket Guardian by introducing new characters and environments if time permits. 
 
 # User Stories
 
