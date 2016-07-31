@@ -74,7 +74,8 @@ Social Media Integration (Facebook); where players can Share, Invite and Check o
 **Deliverables**:
 
 1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
-2. Video: Access it [here]
+2. Video: Access it [here](https://youtu.be/jDM1ANqtfXw)
+3. Want to try the game? [Link](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/releases/tag/v2.0-alpha)
 
 
 In Milestone 3, we've added several improvement to our gameplay to further enrich our players' experience in Pocket Guardian. We've included the following: 1) New currency a.k.a Gem that allows players to make in-game purchases 2) PowerUps that are meant to strengthen their army within a certain duration. These features seek to add greater flavour into the game in providing an all-rounded gaming experience for our fellow players. Last but not least, each gameplay now comes with a new purpose: To defender your precious fortress against pesky monsters within the stipulated time. 
