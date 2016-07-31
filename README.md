@@ -66,7 +66,17 @@ Social Media Integration (Facebook); where players can Share, Invite and Check o
 
 ### **Milestone 3** 
 
-By Milestone 3, in the event that we're unable to introduce Customisable Game Skins in time, we plan to set aside some buffer time in this milestone, just in case.
+1. Project Log: Access it [here](https://docs.google.com/spreadsheets/d/1WCo749g4-QwL-TzHND1M7yVN06aqQtc5tcn_mW-Oyqo/edit?usp=sharing)
+2. Video: Access it [here]
+
+![Image of GameplayScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Layout.png)
+> Gameplay Screen.
+
+![Image of PocketScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Pocket.png)
+> Pocket Screen.
+
+![Image of GemShopscreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/Shop.png)
+> Gem Shop Screen.
 
 By Milestone 3, we hope to acquire feedback from game volunteers to improve our game performance. We aim to further polish up any areas within the game, such as, adding more levels/stages and visual enhancements.
 
