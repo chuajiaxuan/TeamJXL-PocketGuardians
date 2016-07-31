@@ -95,7 +95,7 @@ An in-game Shop that allows players to puchase in-game items to better strategis
 > Gem Shop Screen.
 
 
-As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that the relavant adjustments could be made. Additionally, We hope to expand the game by introducing new characters and environments if time permits. Overall, the journey with Pocket Guardian has been a pleasant and rewarding one for our team.
+As of concurrent, we aim to acquire feedback from volunteers to help identify any existing bugs that may surface during gametime to ensure that the relavant adjustments could be made. Additionally, We hope to expand the game by introducing new characters and environments if time permits. Overall, the journey with Pocket Guardian has been a pleasant and rewarding for our team.
 
 # User Stories
 
