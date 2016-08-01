@@ -67,7 +67,7 @@ Game Setting that allow players to adjust Music/SFX volume in accordance to thei
 Social Media Integration (Facebook); where players can Share, Invite and Check out their Rankings among their friends.
 
 ![Image of LeaderboardScreen](https://github.com/chuajiaxuan/TeamJXL-PocketGuardians/blob/master/PGLeaderboard.png)
-> Leaderboard Screen.
+> Leaderboard Screen. [Note: The Social Media Integration feature is fully working. However, due to limitations to development and pending approval of the app review by Facebook, normal users/players will not be able to use the feature just yet and test it out. Only the app Administrators and Generated Test Users Accounts (as shown in the image) are able to make use of this feature currently. Only upon Facebook's approval, will normal users/players be able to use the feature.]
 
 ### **Milestone 3** 
 
